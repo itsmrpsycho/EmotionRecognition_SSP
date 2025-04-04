@@ -1,0 +1,1 @@
+{"gmm_accuracy":0.12149532710280374,"feature_dim":4524,"_timestamp":1.7436690880903513e+09,"_runtime":339.1082623,"_step":23,"_wandb":{"runtime":339},"n_mfcc":116,"svm_accuracy":0.4392523364485981}

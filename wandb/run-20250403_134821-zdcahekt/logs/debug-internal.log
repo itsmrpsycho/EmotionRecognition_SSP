@@ -1,0 +1,24 @@
+{"time":"2025-04-03T13:48:21.6579715+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"f:\\Study\\4-2\\SSP\\SSP_Project\\EmotionRecognition_SSP\\wandb\\run-20250403_134821-zdcahekt\\logs\\debug-core.log"}
+{"time":"2025-04-03T13:48:22.1346781+05:30","level":"INFO","msg":"created new stream","id":"zdcahekt"}
+{"time":"2025-04-03T13:48:22.1346781+05:30","level":"INFO","msg":"stream: started","id":"zdcahekt"}
+{"time":"2025-04-03T13:48:22.1346781+05:30","level":"INFO","msg":"handler: started","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:22.1346781+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:22.1346781+05:30","level":"INFO","msg":"sender: started","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:22.4848759+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-03T13:48:23.2114843+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T13:48:30.1083267+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T13:48:30.1097747+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T13:48:30.1259839+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T13:48:30.1309573+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T13:48:30.1869757+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T13:48:30.1909706+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-03T13:48:30.2041851+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-03T13:48:30.2182565+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-03T13:48:30.2182565+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-03T13:48:31.230367+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading config.yaml","runtime_seconds":0.3487824,"progress":"566B/566B"}],"total_operations":1}}
+{"time":"2025-04-03T13:48:31.2451792+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-03T13:48:31.6347641+05:30","level":"INFO","msg":"stream: closing","id":"zdcahekt"}
+{"time":"2025-04-03T13:48:31.6347641+05:30","level":"INFO","msg":"handler: closed","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:31.6347641+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:31.6347641+05:30","level":"INFO","msg":"sender: closed","stream_id":"zdcahekt"}
+{"time":"2025-04-03T13:48:31.6347641+05:30","level":"INFO","msg":"stream: closed","id":"zdcahekt"}
