@@ -1,0 +1,18 @@
+{"time":"2025-04-21T23:02:21.1673824+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"f:\\College\\4-2\\SSP\\SSP_Project\\newProject\\EmotionRecognition_SSP\\wandb\\run-20250421_230221-h3jea49i\\logs\\debug-core.log"}
+{"time":"2025-04-21T23:02:21.6140717+05:30","level":"INFO","msg":"created new stream","id":"h3jea49i"}
+{"time":"2025-04-21T23:02:21.6140717+05:30","level":"INFO","msg":"stream: started","id":"h3jea49i"}
+{"time":"2025-04-21T23:02:21.6140717+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:21.6140717+05:30","level":"INFO","msg":"handler: started","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:21.6140717+05:30","level":"INFO","msg":"sender: started","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:21.9921691+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T23:02:28.3614244+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2025-04-21T23:02:32.4707368+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2025-04-21T23:02:32.490843+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T23:02:32.490843+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T23:02:33.4950727+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T23:02:33.5062618+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading history steps 0-0, summary","runtime_seconds":0.0111891}],"total_operations":1}}
+{"time":"2025-04-21T23:02:33.8676737+05:30","level":"INFO","msg":"stream: closing","id":"h3jea49i"}
+{"time":"2025-04-21T23:02:33.8676737+05:30","level":"INFO","msg":"handler: closed","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:33.8676737+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:33.8676737+05:30","level":"INFO","msg":"sender: closed","stream_id":"h3jea49i"}
+{"time":"2025-04-21T23:02:33.8676737+05:30","level":"INFO","msg":"stream: closed","id":"h3jea49i"}
