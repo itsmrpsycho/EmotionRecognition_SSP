@@ -1,0 +1,16 @@
+{"time":"2025-04-21T23:33:13.9484789+05:30","level":"INFO","msg":"stream: starting","core version":"0.19.9","symlink path":"f:\\College\\4-2\\SSP\\SSP_Project\\newProject\\EmotionRecognition_SSP\\wandb\\run-20250421_233313-k7zl15pd\\logs\\debug-core.log"}
+{"time":"2025-04-21T23:33:14.3751664+05:30","level":"INFO","msg":"created new stream","id":"k7zl15pd"}
+{"time":"2025-04-21T23:33:14.3751664+05:30","level":"INFO","msg":"stream: started","id":"k7zl15pd"}
+{"time":"2025-04-21T23:33:14.3751664+05:30","level":"INFO","msg":"handler: started","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:33:14.3751664+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:33:14.3751664+05:30","level":"INFO","msg":"sender: started","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:33:14.7421192+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-04-21T23:37:58.5700514+05:30","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-04-21T23:37:58.5700514+05:30","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-04-21T23:37:59.5848102+05:30","level":"INFO","msg":"handler: operation stats","stats":{"operations":[{"desc":"uploading output.log","runtime_seconds":0.3944237},{"desc":"uploading wandb-summary.json","runtime_seconds":0.3944237,"progress":"1.1KB/1.1KB"},{"desc":"uploading config.yaml","runtime_seconds":0.0865335,"progress":"604B/604B"}],"total_operations":3}}
+{"time":"2025-04-21T23:38:00.6429938+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-04-21T23:38:01.4164345+05:30","level":"INFO","msg":"stream: closing","id":"k7zl15pd"}
+{"time":"2025-04-21T23:38:01.4164345+05:30","level":"INFO","msg":"handler: closed","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:38:01.4164345+05:30","level":"INFO","msg":"sender: closed","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:38:01.4164345+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"k7zl15pd"}
+{"time":"2025-04-21T23:38:01.4164345+05:30","level":"INFO","msg":"stream: closed","id":"k7zl15pd"}
